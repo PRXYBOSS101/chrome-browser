@@ -1,15 +1,12 @@
 [tool.poetry]
-name = "repl-chrome"
+name = "repl_python3_chpy"
 version = "0.1.0"
 description = ""
-authors = ["Parker Wahle <regulad@regulad.xyz>"]
+authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-selenium = "^4.1.0"
-replutil = "^0.1.1"
-replit = "^3.2.4"
-getkey = "^0.6.5"
+selenium = "^3.141.0"
 
 [tool.poetry.dev-dependencies]
 
